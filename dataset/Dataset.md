@@ -1,0 +1,22 @@
+- food
+  - food category
+  - food name
+  - food quantity
+- exercise
+  - exercise type
+  - exercise duration
+- sleep
+  - sleep duration
+  - sleep quantity
+- work
+  - work duration
+- stress
+  - stress amount
+- body
+  - when wake up
+  - 2 hours after breakfast
+  - 2 hours after lunch
+- energy
+  - when wake up
+  - at 12
+  - at 6pm
